@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### ⚠️ This is a learning project built while practicing OOPs Concepts using Java.
 
 # Library Management System (Java - Console Based)
@@ -217,3 +218,13 @@ This project demonstrates the use of:
 
 ## 📌 License
 This project is licensed under **MIT License** and is free to use for **educational purposes**.
+=======
+This is a small learning project in java
+
+A simple console-based Library Management System built in Java. This project demonstrates the use of:
+
+Object-Oriented Programming (OOP)
+Collections Framework (ArrayList, Map)
+Exception Handling & Input Validation
+Separation of Concerns with modular classes (Book, Student, etc.)
+>>>>>>> 535a5589ed92efa4c61a96b89f211fb107a95a5c
